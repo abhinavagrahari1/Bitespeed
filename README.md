@@ -8,3 +8,13 @@ APIs :
   To get list of all users ⇒ GET ⇒ https://my-app.codingninjademo.workers.dev/
 
   To delete all users ⇒ GET ⇒ https://my-app.codingninjademo.workers.dev/delete
+
+  
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
